@@ -1,4 +1,4 @@
-# 
+# Ultimate DocuMind toolkit. Download and install with verified-binaries and multi-language-support — fast, secure, and easy to use.
 
 
 
